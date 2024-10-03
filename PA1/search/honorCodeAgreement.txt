@@ -1,0 +1,5 @@
+By turning in this assignment, I, Aarin Jasikumar, agree by the University of Toronto honor code and
+declare that all of this is my own work
+
+Citations:
+https://medium.com/@robertgrosse/solving-the-traveling-pacman-problem-39c0872428bc
